@@ -1,0 +1,13 @@
+.login
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: fit-content;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+}
